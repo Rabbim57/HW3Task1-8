@@ -92,4 +92,5 @@ public class Main {
 
         System.out.println(" Кристина теперь получает " + kristinaAddition + " Годовой доход вырос на " + kristinaDifference ) ;
         }
+
 }
