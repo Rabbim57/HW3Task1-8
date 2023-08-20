@@ -3,10 +3,12 @@ public class Main {
         byte a = 126;
         short b = 32766;
         int c = 2147483646;
+        long d = 9223372036854775806l;
         float e = 3.457895f;
         double f = 1.111222333444555;
         System.out.println("Значение переменной а с типом byte равно " + a);
         System.out.println("Значение переменной b с типом short равно " + b);
+        System.out.println("Значение переменной d с типом long равно " + d);
         System.out.println("Значение переменной c с типом int равно " + c);
         System.out.println("Значение переменной e с типом float равно " + e);
         System.out.println("Значение переменной f с типом double равно " + f);
